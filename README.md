@@ -88,19 +88,17 @@ Entre los datos procesados se encuentran:
 
 ---
 
-# 📸 Capturas
+# Capturas
 
-> Aquí puedes añadir imágenes del dashboard desde la carpeta `/images`.
+> Imagenes del dashboard `/images`.
 
-```md
-![Principal](images/Principal.png)
 
-![Rayos](images/SeleccionPorRayo.png)
+![Dashboard principal](images/Principal.png)
 
-![Tabla](images/SeleccionPorTabla.png)
-```
+![Selección por rayo](images/SeleccionPorRayo.png)
 
----
+![Selección por tabla](images/SeleccionPorTabla.png)
+
 
 
 # Configuración de MySQL
